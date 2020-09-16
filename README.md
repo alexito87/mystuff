@@ -19,7 +19,4 @@
 
 В рамках анализа данных при помощи python  я использовал библиотеки numpy, pandas, scipy, matplotlib, statistics, seaborn, plotly. 
 
-## Usage
 
-```python
-import foobar
