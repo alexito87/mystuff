@@ -5,10 +5,10 @@
 Выполненные проекты
 <https://github.com/Ruzhantsou/mystuff/tree/master/online_service-project>
 
-| First Header  | Second Header |
-| ------------- | ------------- |
-| Content Cell  | Content Cell  |
-| Content Cell  | Content Cell  |
+| Название проекта | Описание |  Использованные библиотеки |
+| -----------------| ---------|----------------------------|
+| Яндекс.Афиша     | Исследование онлайн-сервиса Яндексю.Афиша  |Matplotlib, NumPy, Pandas, SciPy|
+| Content Cell     | Content Cell  |
 
 
 |[Яндекс.Афиша](..|Исследование онлайн-сервиса Яндексю.Афиша на основе данных посетителей веб-сайта о том, как посетители |Matplotlib, NumPy, Pandas, SciPy |
