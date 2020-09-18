@@ -3,11 +3,11 @@
 Для анализа и визуализации данных я использовал Jupyter Notebook и SQL(My SQL и PostgreSQL).
 
 Выполненные проекты
-<https://github.com/Ruzhantsou/mystuff/tree/master/online_service-project>
+
 
 | Название проекта | Описание |  Использованные библиотеки |
 | -----------------| ---------|----------------------------|
-| Яндекс.Афиша     | Исследование онлайн-сервиса Яндексю.Афиша  |Matplotlib, NumPy, Pandas, SciPy|
+| [Яндекс.Афиша](<https://github.com/Ruzhantsou/mystuff/tree/master/online_service-project>)    | Исследование онлайн-сервиса Яндексю.Афиша  |Matplotlib, NumPy, Pandas, SciPy|
 | Content Cell     | Content Cell  |
 
 
